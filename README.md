@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nassar </h1>
 <h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Minder**
+- 🌱 I’m currently learning **Frontend Development & Software Development**
+  
+- ⚡ I’m constantly learning and exploring new technologies to improve my skills
 
-- 🌱 I’m currently learning **Backend Development & Software Development**
+- 💬 Ask me about **Angular & JavaScript**
 
-- 💬 Ask me about **Laravel & PHP**
-
-- 📫 How to reach me **eyadhamza000@gmail.com**
+- 📫 How to reach me **mohamednassar5678@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
