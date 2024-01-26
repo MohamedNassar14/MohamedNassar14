@@ -24,6 +24,7 @@
 ![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![.net](https://img.shields.io/badge/-.net-05122A?style=flat&logo=dot-net)&nbsp;
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
