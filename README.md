@@ -31,8 +31,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyadhamza&show_icons=true&locale=en&layout=compact" alt="eyadhamza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyadhamza&show_icons=true&locale=en" alt="eyadhamza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyadhamza&" alt="eyadhamza" /></p>
