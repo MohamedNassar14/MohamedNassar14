@@ -33,9 +33,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0077B5?style=flat&logo=sololearn)
 
-# مشر
-
-وصف المشروع هنا...
 
 
 
