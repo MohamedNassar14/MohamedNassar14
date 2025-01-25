@@ -23,10 +23,10 @@
 ![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-007ACC?style=flat&logo=appveyor)
 ![Algorithm](https://img.shields.io/badge/-Algorithm-007ACC?style=flat&logo=appveyor)
